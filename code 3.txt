@@ -1,0 +1,17 @@
+Code 3:
+Importjava.util.scanner;
+Class number
+{	
+Public static void main(string[]args)
+{
+Int n=5;
+for(int i=0; i<n;i++)
+{
+Int number=1;
+System.out.printf(“%”+(n-i)*2+”s”,” ”);
+for(int j=0;j<=I;j++)
+{System.out.printf(“%4d”,number);
+Number=number*(i-j)/(j+1);
+}
+}
+}
